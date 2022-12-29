@@ -1,4 +1,4 @@
-name: Make dist/
+name: Make dist
 
 on:
   push:
